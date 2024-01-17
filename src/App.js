@@ -49,15 +49,15 @@ function App() {
     {
       id: uuidv4(),
       nome: 'GABRIEL SOARES',
-      cargo: 'Desenvolvedora de software e instrutor',
+      cargo: 'Desenvolvedor de software e instrutor',
       imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/363238217_819901176430864_4390144952209778194_n.jpg?ccb=11-4&oh=01_AdQgkI3P7e8a_ws0yiGeC0XxHn7UrnDwTw5lIKuLMGX9jQ&oe=65B3B60B&_nc_sid=e6ed6c&_nc_cat=104',
       time: times[0].nome
     },
     {
       id: uuidv4(),
-      nome: 'DANIEL ARTINE',
-      cargo: 'Engenheiro de Software na Stone Age',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
+      nome: 'TAÍS ANSELMO',
+      cargo: 'Engenheira de Software na Stone Age',
+      imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/390184697_873271427600568_4914410145190173059_n.jpg?ccb=11-4&oh=01_AdTa8uf5r6wGMTEjBYzNR8esxtTvAf9leeIS5be59wZtOA&oe=65B3DCA1&_nc_sid=e6ed6c&_nc_cat=110',
       time: times[0].nome
     },
     {
@@ -77,15 +77,15 @@ function App() {
     {
       id: uuidv4(),
       nome: 'GABRIEL SOARES',
-      cargo: 'Desenvolvedora de software e instrutor',
+      cargo: 'Desenvolvedor de software e instrutor',
       imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/363238217_819901176430864_4390144952209778194_n.jpg?ccb=11-4&oh=01_AdQgkI3P7e8a_ws0yiGeC0XxHn7UrnDwTw5lIKuLMGX9jQ&oe=65B3B60B&_nc_sid=e6ed6c&_nc_cat=104',
       time: times[1].nome
     },
     {
       id: uuidv4(),
-      nome: 'DANIEL ARTINE',
-      cargo: 'Engenheiro de Software na Stone Age',
-      imagem: 'https://www.alura.com.br/assets/img/lideres/daniel-artine.1647533644.jpeg',
+      nome: 'TAÍS ANSELMO',
+      cargo: 'Engenheira de Software na Stone Age',
+      imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/390184697_873271427600568_4914410145190173059_n.jpg?ccb=11-4&oh=01_AdTa8uf5r6wGMTEjBYzNR8esxtTvAf9leeIS5be59wZtOA&oe=65B3DCA1&_nc_sid=e6ed6c&_nc_cat=110',
       time: times[1].nome
     },
     {
@@ -105,7 +105,7 @@ function App() {
     {
       id: uuidv4(),
       nome: 'GABRIEL SOARES',
-      cargo: 'Desenvolvedora de software e instrutor',
+      cargo: 'Desenvolvedor de software e instrutor',
       imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/363238217_819901176430864_4390144952209778194_n.jpg?ccb=11-4&oh=01_AdQgkI3P7e8a_ws0yiGeC0XxHn7UrnDwTw5lIKuLMGX9jQ&oe=65B3B60B&_nc_sid=e6ed6c&_nc_cat=104',
       time: times[2].nome
     },
@@ -133,7 +133,7 @@ function App() {
     {
       id: uuidv4(),
       nome: 'GABRIEL SOARES',
-      cargo: 'Desenvolvedora de software e instrutor',
+      cargo: 'Desenvolvedor de software e instrutor',
       imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/363238217_819901176430864_4390144952209778194_n.jpg?ccb=11-4&oh=01_AdQgkI3P7e8a_ws0yiGeC0XxHn7UrnDwTw5lIKuLMGX9jQ&oe=65B3B60B&_nc_sid=e6ed6c&_nc_cat=104',
       time: times[3].nome
     },
@@ -160,7 +160,7 @@ function App() {
     {
       id: uuidv4(),
       nome: 'GABRIEL SOARES',
-      cargo: 'Desenvolvedora de software e instrutor',
+      cargo: 'Desenvolvedor de software e instrutor',
       imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/363238217_819901176430864_4390144952209778194_n.jpg?ccb=11-4&oh=01_AdQgkI3P7e8a_ws0yiGeC0XxHn7UrnDwTw5lIKuLMGX9jQ&oe=65B3B60B&_nc_sid=e6ed6c&_nc_cat=104',
       time: times[4].nome
     },
@@ -188,7 +188,7 @@ function App() {
     {
       id: uuidv4(),
       nome: 'GABRIEL SOARES',
-      cargo: 'Desenvolvedora de software e instrutor',
+      cargo: 'Desenvolvedor de software e instrutor',
       imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/363238217_819901176430864_4390144952209778194_n.jpg?ccb=11-4&oh=01_AdQgkI3P7e8a_ws0yiGeC0XxHn7UrnDwTw5lIKuLMGX9jQ&oe=65B3B60B&_nc_sid=e6ed6c&_nc_cat=104',
       time: times[5].nome
     },

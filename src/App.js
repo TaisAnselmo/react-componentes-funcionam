@@ -113,7 +113,7 @@ function App() {
       id: uuidv4(),
       nome: 'TAÍS ANSELMO',
       cargo: 'Engenheira de Software na Stone Age',
-      imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/390184697_873271427600568_4914410145190173059_n.jpg?ccb=11-4&oh=01_AdRLfvwQdlHfs1CZ5ezTZfkjuvW6h9A7uCmOFjxCZxzFJw&oe=65B64761&_nc_sid=e6ed6c&_nc_cat=110',
+      imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/390184697_873271427600568_4914410145190173059_n.jpg?ccb=11-4&oh=01_AdRxRGrLdcsVV_7hz4gpzvR_x7KHc4tfnzvflK4LACzaFA&oe=65C61961&_nc_sid=e6ed6c&_nc_cat=110',
       time: times[2].nome
     },
     
@@ -142,7 +142,7 @@ function App() {
       id: uuidv4(),
       nome: 'TAÍS ANSELMO',
       cargo: 'Engenheira de Software na Stone Age',
-      imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/390184697_873271427600568_4914410145190173059_n.jpg?ccb=11-4&oh=01_AdRLfvwQdlHfs1CZ5ezTZfkjuvW6h9A7uCmOFjxCZxzFJw&oe=65B64761&_nc_sid=e6ed6c&_nc_cat=110',
+      imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/390184697_873271427600568_4914410145190173059_n.jpg?ccb=11-4&oh=01_AdRxRGrLdcsVV_7hz4gpzvR_x7KHc4tfnzvflK4LACzaFA&oe=65C61961&_nc_sid=e6ed6c&_nc_cat=110',
       time: times[3].nome
     },
     {
@@ -170,7 +170,7 @@ function App() {
       id: uuidv4(),
       nome: 'TAÍS ANSELMO',
       cargo: 'Engenheira de Software na Stone Age',
-      imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/390184697_873271427600568_4914410145190173059_n.jpg?ccb=11-4&oh=01_AdRLfvwQdlHfs1CZ5ezTZfkjuvW6h9A7uCmOFjxCZxzFJw&oe=65B64761&_nc_sid=e6ed6c&_nc_cat=110',
+      imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/390184697_873271427600568_4914410145190173059_n.jpg?ccb=11-4&oh=01_AdRxRGrLdcsVV_7hz4gpzvR_x7KHc4tfnzvflK4LACzaFA&oe=65C61961&_nc_sid=e6ed6c&_nc_cat=110',
       time: times[4].nome
     },
     {
@@ -197,10 +197,10 @@ function App() {
       id: uuidv4(),
       nome: 'TAÍS ANSELMO',
       cargo: 'Engenheira de Software na Stone Age',
-      imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/390184697_873271427600568_4914410145190173059_n.jpg?ccb=11-4&oh=01_AdRLfvwQdlHfs1CZ5ezTZfkjuvW6h9A7uCmOFjxCZxzFJw&oe=65B64761&_nc_sid=e6ed6c&_nc_cat=110',
+      imagem: 'https://media-gig4-2.cdn.whatsapp.net/v/t61.24694-24/390184697_873271427600568_4914410145190173059_n.jpg?ccb=11-4&oh=01_AdRxRGrLdcsVV_7hz4gpzvR_x7KHc4tfnzvflK4LACzaFA&oe=65C61961&_nc_sid=e6ed6c&_nc_cat=110',
       time: times[5].nome
     },
-    {
+      {
       nome: 'GUILHERME LIMA',
       cargo: 'Desenvolvedor Python e JavaScript na Alura',
       imagem: '	https://www.alura.com.br/assets/img/lideres/guilherme-lima.1647533644.jpeg',
